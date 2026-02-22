@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreWarden&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoreWarden)](https://github.com/ryo-ma/github-profile-trophy)
